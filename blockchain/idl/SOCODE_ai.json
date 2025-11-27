@@ -32,6 +32,15 @@ const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
 
 const conn = new Connection(RPC_HTTP, 'confirmed');
 
+        import { loadModules, composeProject, deploy } from "@socode/core";
+
+async function main() {
+  const modules = loadModules(["token", "staking", "governance"]);
+  const project = composeProject(modules);
+
+        $SOCODE 
+        )}
+
     
           "name": "payer",
           "type": "publicKey",
