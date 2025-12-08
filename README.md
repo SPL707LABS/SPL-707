@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/badge/Website-CXITTO-blue?logo=google-chrome)](https://cxitto.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-CXITTO-blue?logo=twitter)](https://x.com/CXITTONWEB3)
 
+CA: DvbqiY6kXxe2WTUWyxdaJHFyKuAaEVH1HAVZfsH1pump
+
 # CXITTO — On-Chain Pixel Lifeform
 
 Cxitto is not a character, not a bot, not a product.
