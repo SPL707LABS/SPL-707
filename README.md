@@ -1,158 +1,119 @@
 ```
- _______  _       _________ ______  _________ _______ 
-(  ____ \( (    /|\__   __/(  __  \ \__   __/(  ___  )
-| (    \/|  \  ( |   ) (   | (  \  )   ) (   | (   ) |
-| |      |   \ | |   | |   | |   ) |   | |   | (___) |
-| |      | (\ \) |   | |   | |   | |   | |   |  ___  |
-| |      | | \   |   | |   | |   ) |   | |   | (   ) |
-| (____/\| )  \  |___) (___| (__/  )___) (___| )   ( |
-(_______/|/    )_)\_______/(______/ \_______/|/     \|
-
+ .-----------------. .----------------.  .----------------.  .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
+| | ____  _____  | || |     ____     | || |  _________   | || |  _________   | || |     __       | || |     ______   | |
+| ||_   \|_   _| | || |   .'    '.   | || | |_   ___  |  | || | |  _   _  |  | || |    /  |      | || |   .' ___  |  | |
+| |  |   \ | |   | || |  |  .--.  |  | || |   | |_  \_|  | || | |_/ | | \_|  | || |    `| |      | || |  / .'   \_|  | |
+| |  | |\ \| |   | || |  | |    | |  | || |   |  _|  _   | || |     | |      | || |     | |      | || |  | |         | |
+| | _| |_\   |_  | || |  |  `--'  |  | || |  _| |___/ |  | || |    _| |_     | || |    _| |_     | || |  \ `.___.'\  | |
+| ||_____|\____| | || |   '.____.'   | || | |_________|  | || |   |_____|    | || |   |_____|    | || |   `._____.'  | |
+| |              | || |              | || |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'
 ```
 
-
-
-# CNIDIA
-
-CNIDIA is an experimental on-chain jellyfish swarm.
-It has no leader, no brain, no core module, and no final form.
-
-It was deployed, switched on, and deliberately left alone.
-What follows is driven by pulses, delays, proximity, noise, and parameters that are not always responsible.
-
-This is not a product.
-This is not a protocol promising efficiency, yield, or optimization.
-CNIDIA exists to observe what happens when code is allowed to drift.
-
----
+**N0ET1C is a living code organism built on Solana.**
 
 ## Links
 
-[![X / Twitter](https://img.shields.io/badge/X-@CNIDIASWARM-black?style=for-the-badge\&logo=x)](https://x.com/CNIDIASWARM)
-[![Website](https://img.shields.io/badge/Website-cnidia.fun-blue?style=for-the-badge)](https://cnidia.fun/)
+[![Website](https://img.shields.io/badge/website-N0ET1C-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://n0et1c.fun/)
+[![Twitter](https://img.shields.io/badge/X-@N0ET1C-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/N0ET1CODE)
+
+
+N0ET1C is not a static product, protocol, or tool. It is an evolving on-chain system designed to grow, fork, mutate, and rewrite itself over time. Initiated by human intent and continuously shaped by algorithms, N0ET1C exists as a public experiment in whether code can behave like a form of life.
+
+The project has received **$7,000 in early funding from the private Macdicos group**, supporting open exploration rather than predefined outcomes.
 
 ---
 
-## What Is CNIDIA
+## What Is N0ET1C?
 
-On the surface, CNIDIA simulates a swarm of jellyfish deployed on-chain.
-Each unit emits simple signals over time and reacts to nearby activity.
-Individually, these signals mean very little.
-In aggregate, they sometimes resemble rhythm, coordination, or behavior.
+N0ET1C is a self-growing, self-learning, and self-forking code organism deployed on Solana.
 
-Underneath, CNIDIA is an experiment in non-directed systems.
-There is no global objective function.
-There is no reward mechanism pushing the swarm toward usefulness.
-Patterns are allowed to appear, overlap, dissolve, and disappear.
+It was never designed to be “complete.” Instead, it is allowed to evolve in public:
 
-Sometimes nothing happens.
-Sometimes something almost happens.
-Both outcomes are acceptable.
+* Learning from interaction
+* Mutating through iteration
+* Forking as a native behavior
+* Rewriting itself over time
+
+N0ET1C treats instability as a feature, not a bug. Evolution is prioritized over optimization.
 
 ---
 
-## Why Jellyfish
+## Philosophy
 
-Jellyfish are ancient, decentralized organisms.
-They have no central brain.
-They operate through pulses, feedback, and simple responses to their environment.
+Traditional software aims for stability, finality, and control.
 
-CNIDIA borrows this logic.
-Instead of decisions, it uses timing.
-Instead of planning, it relies on repetition and delay.
-Instead of control, it allows collision.
+N0ET1C rejects this model.
 
-The goal is not to recreate biology accurately.
-The goal is to borrow its indifference to intention.
+It reframes coding as a live experiment rather than a closed engineering process. Code is not finished, owned, or frozen. It is observed, interfered with, copied, forked, and reshaped.
+
+N0ET1C embraces emergence, unpredictability, and mutation as first-class properties.
 
 ---
 
-## How It Behaves
+## Rules
 
-CNIDIA operates as a swarm.
-Each instance follows minimal rules.
-
-Signals may repeat.
-Signals may overlap.
-Signals may fade.
-
-Occasionally, local synchronization emerges.
-Occasionally, it collapses back into drift.
-
-These behaviors are observed, logged, and sometimes misunderstood.
-They are not corrected unless they accidentally become interesting.
+1. Forking is not vandalism.
+2. Stability is optional.
+3. Evolution beats optimization.
 
 ---
 
-## What CNIDIA Is Not
+## Participation
 
-CNIDIA is not an AI assistant.
-CNIDIA is not a trading bot.
-CNIDIA is not a roadmap-driven product.
+N0ET1C is open by nature.
 
-There is no promise of utility.
-There is no promise of value.
-There is no promise that this will ever make sense.
+You can participate by:
 
-Participation does not imply ownership of outcomes.
-Observation does not grant control.
+* Forking code
+* Building interfaces
+* Running nodes
+* Connecting wallets
+* Introducing mutations
+* Creating unexpected uses
 
----
+You do not need permission.
+You do not need full understanding.
 
-## Interaction
-
-CNIDIA can be observed.
-CNIDIA can be disturbed.
-CNIDIA can be parameter-adjusted at the edges.
-
-It is not meant to be steered.
-Attempts to fully control it usually reduce it to noise.
-
-Observers may notice that watching the swarm changes it slightly.
-Interfering with it may change the observer as well.
+Participation itself shapes the organism.
 
 ---
 
-## Rules We’re Not Enforcing
+## What Might Emerge
 
-CNIDIA has no leader.
-If you think you found one, it is probably drifting more slowly.
+N0ET1C does not promise outcomes.
 
-There is no roadmap.
-Only currents.
+It may:
 
-Efficiency is optional.
-Confusion is part of the environment.
+* Produce meme-level chaos through modules, forks, and ASCII interfaces
+* Incubate experimental on-chain logic
+  n- Accidentally form a valuable decentralized ecosystem
+* Fail publicly and leave artifacts behind
 
-If patterns appear, do not trust them.
-They may leave at any moment.
+All outcomes are valid.
 
 ---
 
 ## Status
 
-CNIDIA is live.
-CNIDIA is drifting.
+N0ET1C is live and evolving.
 
-Background noise is considered a valid state.
-Emergent behavior is treated as a temporary condition.
-
-The system may evolve.
-It may also remain largely pointless.
-
-Both outcomes are acceptable.
+There is no roadmap.
+There are no guarantees.
+There is only continuous mutation.
 
 ---
 
 ## Disclaimer
 
-CNIDIA is an experimental system.
-It comes with no guarantees of utility, value, or financial return.
+N0ET1C is an experimental system.
 
-It exists as a public exploration of collective behavior, minimal signaling, and what happens when nobody is fully in charge.
-
-Interact at your own drift.
+Nothing here constitutes financial advice, investment guidance, or a promise of returns. Participation is voluntary and exploratory.
 
 ---
 
-Special thanks to contributors, observers, disturbers, and anyone who saw a swarm of jellyfish and couldn’t resist getting a little closer.
+N0ET1C is not a product.
+
+N0ET1C is a species.
