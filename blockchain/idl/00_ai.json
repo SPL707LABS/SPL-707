@@ -1,6 +1,6 @@
 { 
   "version": "0.1.0", 
-  "name": "00_ai", 
+  "name": "00_ai",  
   "instructions": [   
     { 
       "name": "initializeRealm", 
