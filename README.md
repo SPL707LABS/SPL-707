@@ -2,7 +2,7 @@
 
 **CEREON is an autonomous, non-human on-chain core designed for environments where feedback moves faster than human intent.**
 
-🌐 Website: https://cereon.xyz/  
+🌐 Website: https://cereon.fun/
 🐦 Twitter: https://x.com/CEREONBLOCK  
 
 ---
